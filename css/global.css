@@ -1,11 +1,12 @@
 
 body {
-    color: red;
-    background-color: black;
+    margin: 0;
+    color: black;
+    background-color: tan;
 }
 
 button {
-    background-color: red;
+    background-color: tan;
     font-size: large;
     padding: 8px 16px;
     border-radius: 8px;
@@ -24,8 +25,8 @@ button:hover {
     align-items: center;
     justify-content: space-between;
     cursor: pointer;
-    border: 1px solid red;
+    border: 1px solid black;
     margin: 20px;
     padding: 10px;
+    border-radius: 15px;
 }
-
